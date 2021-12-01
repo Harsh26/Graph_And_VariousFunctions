@@ -1,0 +1,6 @@
+digraph G{
+0->1 [style=bold,label=-2];
+0;
+1->0 [style=bold,label=3];
+1;
+}

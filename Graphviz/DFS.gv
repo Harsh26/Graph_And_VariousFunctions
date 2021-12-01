@@ -1,0 +1,6 @@
+digraph G{
+0[style=bold,label=<<FONT COLOR="BLUE" POINT-SIZE="24.0">0</FONT><BR/>2/3>];
+1[style=bold,label=<<FONT COLOR="BLUE" POINT-SIZE="24.0">1</FONT><BR/>1/4>];
+1->0 [style=bold,label=tree];
+0->1 [style=bold,label=back];
+}
